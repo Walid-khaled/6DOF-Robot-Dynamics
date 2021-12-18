@@ -1,5 +1,5 @@
 ## 6DOF-Robot-Dynamics
-In this repository, dynamic model for 6DOF robot is derived using Euler-Lagrange approach. Inertia matrix, coriolis matrix, and gravity vector are calculated. The repository is also a solution for Assignment4 in Dynamics of Nonlinear Robotics Systems course for ROCV master's program at Innopolis University.
+In this repository, dynamic model for 6DOF robot is derived using Euler-Lagrange approach. Inertia matrix, Coriolis matrix, and gravity vector are calculated. The repository is also a solution for Assignment4 in Dynamics of Nonlinear Robotics Systems course for ROCV master's program at Innopolis University.
 
 Task:
 
